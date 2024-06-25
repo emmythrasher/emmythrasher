@@ -19,7 +19,7 @@ You can visit my portfolio website [here](https://emmythrasher.github.io/)
 - Projects showcase
 - Contact information
 
-##Installation
+## Installation
 To run this project locally, follow there steps:
 1. Close the repository
  ```bash
