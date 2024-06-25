@@ -24,11 +24,13 @@ To run this project locally, follow there steps:
 1. Close the repository
  ```bash
  git clone https://github.com/emmythrasher/emmythrasher.github.io
-
+```
 2. Navigate to the project directory
+```bash
 cd emmythrasher.github.io
+```
+4. open index.html in your browser
 
-3. open index.html in your browser
 
 ## Technologies
 - HTML
